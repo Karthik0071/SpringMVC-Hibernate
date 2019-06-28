@@ -23,6 +23,8 @@ public class DemoAppConfig {
 		viewResolver.setSuffix(".jsp");
 		
 		return viewResolver;
+		
+		// added this to git 
 	}
 	
 }
